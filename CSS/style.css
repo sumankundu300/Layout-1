@@ -1,0 +1,28 @@
+header{
+    background-color: red;
+    text-align: center;
+}
+article{
+    background-color: orangered;
+    text-align: center;
+    color: #fff;
+    height:300px;
+    width: 50%;
+    float: left;
+} 
+aside{
+    background-color: blue;
+    text-align: center;
+    height:300px;
+    width: 50%;
+    float: right;
+}
+.article-section{
+    overflow: hidden;
+}
+footer{
+    background-color: cornflowerblue;
+    text-align: center;
+    height:80px;
+    
+}
